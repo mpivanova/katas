@@ -15,5 +15,9 @@
   },
   "volta": {
     "node": "20.15.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "chai": "^5.1.1"
   }
 }
